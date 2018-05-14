@@ -29,3 +29,7 @@ Requirements:
 
 
 Note: This is tested on win-7 64 bit, with python-3.6.4 installed. 
+
+
+
+* Ignore "Map file" button in the GUI, it is still under development. 
