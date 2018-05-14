@@ -12,7 +12,7 @@ There are few steps to be followed inorder to render the obj files.
 
 Step 1: Select "Objects" button in the GUI where .obj files are present
 
-Step 2: Select a texture which you want by clicking "Texture file" button in the GUI. (JPEG format)
+Step 2: Select a texture which you want by clicking "Texture file" button in the GUI. (JPEG and PNG format)
 
 Step 4: Select an empty folder where you want to see the output rendered images.
 
