@@ -13,7 +13,7 @@ from ToolTip import createToolTip
 win = tkinter.Tk()
 
 # Change the main windows icon
-win.iconbitmap('Iconsmind-Outline-Dress.ico')
+win.iconbitmap('Iconsmind-Outline-Dress.ico')  # filename
 
 # Add a title
 win.title("Render Texture Batch")
