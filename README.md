@@ -24,11 +24,11 @@ Now open the empty folder which you created, you can see the output rendered ima
 
 Requirements:
 1. Python-3.6  -->  https://www.python.org/downloads/
-2. IDE: Your comfort, you can use Pycharm or Spyder or Jupyter Notebook.  (personally I will prefer using Pycharm)
+2. IDE: Your comfort, you can use Pycharm or Spyder or Jupyter Notebook.  (personally I will prefer Pycharm)
 
 
 
-Note: This is tested on win-7 64 bit, with python-3.6.4 installed. 
+Note: This is tested on win-7 64 bit, with python-3.6.4 installed not sure about other o.s. 
 
 
 
